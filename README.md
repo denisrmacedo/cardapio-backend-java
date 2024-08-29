@@ -11,3 +11,4 @@
   - Lombok
   - Spring Data JPA
   - PostgreSQL Driver
+  - Flyway Migration 
