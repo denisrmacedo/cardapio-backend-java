@@ -1,4 +1,4 @@
-# Cardápio Backend
+# Cardápio Backend - API Rest com Java Spring Boot
 >  Backend do Projeto Cardápio
 
 ## Requirements
